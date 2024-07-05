@@ -26,22 +26,22 @@ function Project_seaction(){
         {
             project_tatile:"OCHI Web Clone",
             project_Name:"Developed ochi website clone a bulit a website using React, Tailwind CSS, and Framer Motion for animations.",
-            projectImg:"/ochi.webp"
+            projectImg:"https://vikaslokhande2004.github.io/Portfolio/ochi.webp"
           },
         {
             project_tatile:"Soptify Clone",
             project_Name:"Developed a responsive music streaming site with HTML, CSS and JavaScript, including play,pause, and playlist featureds.",
-            projectImg:"/Spotify.webp"
+            projectImg:"https://vikaslokhande2004.github.io/Portfolio/Spotify.webp"
           },
           {
             project_tatile:"Weather App",
             project_Name:"Built a responsive weather app using HTML, CSS and JavaScript, integrating real-time data via API.",
-            projectImg:"/weather-app.webp"
+            projectImg:"https://vikaslokhande2004.github.io/Portfolio/weather-app.webp"
           },
           {
             project_tatile:"Flipkart Clone",
             project_Name:"Built a Flipkart e-commerce site with HTML, CSS, and JavaScript, featuring product listings.",
-            projectImg:"/Flipkart.webp"
+            projectImg:"https://vikaslokhande2004.github.io/Portfolio/Flipkart.webp"
           }
 ]
 console.log(prject[0].project_tatile)
